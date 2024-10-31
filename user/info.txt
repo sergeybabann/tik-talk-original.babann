@@ -1,0 +1,9 @@
+git repo:
+    https://github.com/sergeybabann/tik-talk-original.babann
+
+
+tutorial url:
+    https://www.youtube.com/watch?v=BVIffUyYlUk&t=438s
+
+video stop:
+16.00
